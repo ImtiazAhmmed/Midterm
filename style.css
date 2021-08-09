@@ -1,0 +1,12 @@
+.nav-logo{
+    height: 60px;
+    width: 150px;
+}
+.button{
+    text-decoration: none;
+    padding: 8px 15px;
+    background-image: linear-gradient(45deg, rgb(5, 102, 53), rgb(8, 85, 34));
+    border-radius: 15px;
+   color: white;
+    
+}
